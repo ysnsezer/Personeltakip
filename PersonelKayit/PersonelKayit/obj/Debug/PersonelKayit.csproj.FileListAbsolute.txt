@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Form1.resources
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\LENOVO\source\repos\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
